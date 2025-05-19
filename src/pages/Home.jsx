@@ -1,17 +1,14 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import ArticleList from '../components/ArticleList'
-ArticleList
-
-
+import Footer from '../components/Footer'
+import Layout from '../components/Layout'
 
 
 function Home() {
   return (
-    <div className='bg-red-50 '>
-    <Navbar/>
+    <div>
     <ArticleList/>
-
     </div>
   )
 }
