@@ -5,6 +5,8 @@ Article Viewer is a sleek, React-powered web app inspired by Medium, designed to
 ## Preview
 ![Preview](public/assets/home.png)
 ![Preview](public/assets/articledetail.png)
+![Preview](public/assets/searchfound.png)
+![Preview](public/assets/searchnotfound.png)
 
 
 
