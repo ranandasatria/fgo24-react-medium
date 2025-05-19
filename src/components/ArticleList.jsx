@@ -11,7 +11,7 @@ function ArticleList() {
   const articlesPerPage = 5
 
   const handleNavigate = (param1, param2) => {
-    navigate(`/${param1}/${param2}`)
+    navigate(`/${param1}/${param2}`, {state: {success: "Selamat membaca!"}})
   }
 
   const handleSearch = (e) => {
