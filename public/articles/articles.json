@@ -1,0 +1,26 @@
+[
+  {
+    "username": "artikel_pertama",
+    "slug": "manfaat-kopi-untuk-kesehatan",
+    "body": "Kopi, minuman favorit banyak orang, ternyata memiliki beragam manfaat untuk kesehatan. Dari meningkatkan fokus hingga mengurangi risiko penyakit tertentu.",
+    "title": "Manfaat Tak Terduga Kopi untuk Kesehatan"
+  },
+  {
+    "username": "blogger_maya",
+    "slug": "tips-produktif-bekerja-dari-rumah",
+    "body": "Bekerja dari rumah membutuhkan strategi khusus agar tetap produktif. Buat jadwal, hindari gangguan, dan luangkan waktu untuk istirahat.",
+    "title": "Kunci Produktivitas: Tips Bekerja dari Rumah"
+  },
+  {
+    "username": "penulis_digital",
+    "slug": "mengenal-konsep-kecerdasan-buatan",
+    "body": "Kecerdasan Buatan (AI) adalah bidang yang berkembang pesat. AI memungkinkan mesin belajar dari data, mengenali pola, dan membuat keputusan.",
+    "title": "Memahami AI: Revolusi Teknologi Masa Kini"
+  },
+  {
+    "username": "jelajah_alam",
+    "slug": "destinasi-wisata-tersembunyi-di-indonesia",
+    "body": "Indonesia punya banyak destinasi wisata tersembunyi yang menawan. Dari pantai eksotis hingga gunung yang menantang.",
+    "title": "Surga Tersembunyi: Destinasi Wisata Indonesia yang Belum Terjamah"
+  }
+]
